@@ -67,9 +67,6 @@
     	margin: 0 auto;
     	padding: 80px 15px 80px 13px;
     }
-    .rs-appscreenshot .swiper-container .swiper-wrapper .swiper-slide img {
-    	box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.1);
-    }
     .rs-appscreenshot .circle-shape {
     	left: 284px;
     }
@@ -167,9 +164,7 @@
 	.rs-contact .col-md-6.pl-65 {
 		padding-left: 40px;
 	}
-	.rs-contact .content-part ul.download-links li {
-		margin-right: 15px;
-	}
+
 	.rs-contact .content-part ul.download-links li a img {
 		max-width: 120px;
 	}

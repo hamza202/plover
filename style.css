@@ -1445,7 +1445,8 @@ ul {
 }
 .rs-contact .content-part ul.download-links li {
   display: inline-block;
-  margin-right: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
 }
 .rs-contact .content-part ul.download-links li a {
   display: inline-block;
@@ -1459,9 +1460,7 @@ ul {
 .rs-contact .content-part ul.download-links li a:hover img {
   opacity: 0.8;
 }
-.rs-contact .content-part ul.download-links li:last-child {
-  margin: 0;
-}
+
 /*-----------------------------------------------
     13. Footer Section Css
 -----------------------------------------------*/
