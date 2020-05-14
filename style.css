@@ -1629,3 +1629,9 @@ ul {
 .rs-newsletter{
   overflow: hidden;
 }
+.sup-page-header{
+  background: url(./assets/images/background/bg6.jpg) no-repeat;
+  background-size: 100%;
+  margin-top: 100px;
+  padding: 100px 0;
+}
