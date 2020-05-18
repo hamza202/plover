@@ -1635,3 +1635,18 @@ ul {
   margin-top: 100px;
   padding: 100px 0;
 }
+ul.my-list li{
+  position: relative;
+  padding-left: 15px;
+}
+ul.my-list li:before{
+  position: absolute;
+  content: '';
+  display: block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  left: 0;
+  top: 10px;
+  background-color: #FEA13A ;
+}

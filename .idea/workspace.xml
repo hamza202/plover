@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce8af6ed-4956-424d-807f-04a7487c236b" name="Default Changelist" comment="">
+    <list default="true" id="fe57a891-1265-4f8f-9e6a-26c5502a0306" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/plover.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plover.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/rsmenu-main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/rsmenu-main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/privacy.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -11,49 +17,46 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
-    <execution />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1bX7KltpQQapkQqJdDxZjwQ987w" />
+  <component name="ProjectId" id="1c4ldfkqJC0hyat5SrfHshQLbZG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.HTML" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ce8af6ed-4956-424d-807f-04a7487c236b" name="Default Changelist" comment="" />
-      <created>1588766523030</created>
+      <changelist id="fe57a891-1265-4f8f-9e6a-26c5502a0306" name="Default Changelist" comment="" />
+      <created>1589795835351</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1588766523030</updated>
-      <workItem from="1588766526849" duration="378000" />
-      <workItem from="1588848484497" duration="3065000" />
-      <workItem from="1589033576522" duration="4587000" />
-      <workItem from="1589111289487" duration="4887000" />
-      <workItem from="1589120183284" duration="1796000" />
-      <workItem from="1589465587773" duration="3570000" />
+      <updated>1589795835351</updated>
+      <workItem from="1589795838480" duration="6253000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2022" y="136" width="1061" height="624" key="find.popup" timestamp="1588848785872">
-      <screen x="1366" y="-121" width="1920" height="1040" />
+    <state x="552" y="179" key="#Notifications" timestamp="1589795888676">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="2022" y="136" width="1061" height="624" key="find.popup/0.0.1366.728/1366.-121.1920.1040@1366.-121.1920.1040" timestamp="1588848785872" />
+    <state x="552" y="179" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1589795888676" />
+    <state x="31" y="172" width="998" height="708" key="SettingsEditor" timestamp="1589796755631">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="31" y="172" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589796755631" />
   </component>
 </project>
