@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="157" height="217" viewBox="0 0 157 217">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.3;
+      }
+
+      .cls-2 {
+        fill: #fc9438;
+      }
+    </style>
+  </defs>
+  <g class="cls-1">
+    <circle cx="3.734" cy="3.734" r="3.734" class="cls-2"/>
+    <ellipse cx="33.578" cy="3.734" rx="3.703" ry="3.734" class="cls-2"/>
+    <ellipse cx="63.422" cy="3.734" rx="3.734" ry="3.734" class="cls-2"/>
+    <ellipse cx="93.297" cy="3.734" rx="3.734" ry="3.734" class="cls-2"/>
+    <circle cx="123.141" cy="3.734" r="3.734" class="cls-2"/>
+    <ellipse cx="3.734" cy="33.578" rx="3.734" ry="3.703" class="cls-2"/>
+    <circle cx="33.578" cy="33.578" r="3.703" class="cls-2"/>
+    <circle cx="63.422" cy="33.578" r="3.734" class="cls-2"/>
+    <circle cx="93.297" cy="33.578" r="3.734" class="cls-2"/>
+    <ellipse cx="123.141" cy="33.578" rx="3.734" ry="3.703" class="cls-2"/>
+    <ellipse cx="3.734" cy="63.422" rx="3.734" ry="3.734" class="cls-2"/>
+    <circle cx="33.578" cy="63.422" r="3.703" class="cls-2"/>
+    <circle cx="63.422" cy="63.422" r="3.734" class="cls-2"/>
+    <circle cx="93.297" cy="63.422" r="3.734" class="cls-2"/>
+    <ellipse cx="123.141" cy="63.422" rx="3.734" ry="3.734" class="cls-2"/>
+    <ellipse cx="3.734" cy="93.297" rx="3.734" ry="3.734" class="cls-2"/>
+    <circle cx="33.578" cy="93.297" r="3.703" class="cls-2"/>
+    <circle cx="63.422" cy="93.297" r="3.734" class="cls-2"/>
+    <circle cx="93.297" cy="93.297" r="3.734" class="cls-2"/>
+    <ellipse cx="123.141" cy="93.297" rx="3.734" ry="3.734" class="cls-2"/>
+    <circle cx="3.734" cy="123.141" r="3.734" class="cls-2"/>
+    <ellipse cx="33.578" cy="123.141" rx="3.703" ry="3.734" class="cls-2"/>
+    <ellipse cx="63.422" cy="123.141" rx="3.734" ry="3.734" class="cls-2"/>
+    <ellipse cx="93.297" cy="123.141" rx="3.734" ry="3.734" class="cls-2"/>
+    <circle cx="123.141" cy="123.141" r="3.734" class="cls-2"/>
+    <circle cx="3.734" cy="153.016" r="3.734" class="cls-2"/>
+    <ellipse cx="33.578" cy="153.016" rx="3.703" ry="3.734" class="cls-2"/>
+    <ellipse cx="63.422" cy="153.016" rx="3.734" ry="3.734" class="cls-2"/>
+    <ellipse cx="93.297" cy="153.016" rx="3.734" ry="3.734" class="cls-2"/>
+    <circle cx="123.141" cy="153.016" r="3.734" class="cls-2"/>
+    <circle cx="3.734" cy="182.828" r="3.734" class="cls-2"/>
+    <ellipse cx="33.578" cy="182.828" rx="3.703" ry="3.734" class="cls-2"/>
+    <ellipse cx="63.422" cy="182.828" rx="3.734" ry="3.734" class="cls-2"/>
+    <ellipse cx="93.297" cy="182.828" rx="3.734" ry="3.734" class="cls-2"/>
+    <circle cx="123.141" cy="182.828" r="3.734" class="cls-2"/>
+    <ellipse cx="3.734" cy="212.703" rx="3.734" ry="3.734" class="cls-2"/>
+    <circle cx="33.578" cy="212.703" r="3.703" class="cls-2"/>
+    <circle cx="63.422" cy="212.703" r="3.734" class="cls-2"/>
+    <circle cx="93.297" cy="212.703" r="3.734" class="cls-2"/>
+    <ellipse cx="123.141" cy="212.703" rx="3.734" ry="3.734" class="cls-2"/>
+    <circle cx="153.016" cy="3.734" r="3.734" class="cls-2"/>
+    <ellipse cx="153.016" cy="33.578" rx="3.734" ry="3.703" class="cls-2"/>
+    <ellipse cx="153.016" cy="63.422" rx="3.734" ry="3.734" class="cls-2"/>
+    <ellipse cx="153.016" cy="93.297" rx="3.734" ry="3.734" class="cls-2"/>
+    <circle cx="153.016" cy="123.141" r="3.734" class="cls-2"/>
+    <circle cx="153.016" cy="153.016" r="3.734" class="cls-2"/>
+    <circle cx="153.016" cy="182.828" r="3.734" class="cls-2"/>
+    <ellipse cx="153.016" cy="212.703" rx="3.734" ry="3.734" class="cls-2"/>
+  </g>
+</svg>
