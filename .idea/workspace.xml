@@ -2,148 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe57a891-1265-4f8f-9e6a-26c5502a0306" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/rtl/assets/css/rtl.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/ajax-loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/aos.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/magnific-popup.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/odometer.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/off-canvas.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/owl.carousel.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/rs-spacing.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/rsanimations.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/rsmenu-main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/slick-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/slick.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/swiper.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Flaticon-1.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Flaticon.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Flaticon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Flaticon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Flaticon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/Flaticon.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/flaticon.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont-1.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/about/ball.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/about/device.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/about/pattern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/about/pattern2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/about/shape.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/about/top-shape.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/background/bg1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/background/bg2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/background/bg3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/background/bg4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/background/bg5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/background/bg6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/banner/banner-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/banner/device.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/banner/iPhone X-XS-11 Pro – 13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/banner/screen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/banner/screen2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/banner/screen3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/blog/ball.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/blog/pattern1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/blog/pattern2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/download/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/download/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/download/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/fav.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/features/shape1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/features/shape2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/features/shape3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/newsletter/device.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/newsletter/device2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/newsletter/device3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/newsletter/pattern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/screnshots/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/screnshots/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/screnshots/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/screnshots/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/screnshots/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/screnshots/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/screnshots/7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/screnshots/8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/screnshots/9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/screnshots/pattern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/screnshots/s1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/screnshots/s2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/screnshots/s3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/screnshots/s4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/screnshots/s5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/screnshots/s6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/screnshots/s7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/solutions/ball.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/solutions/device.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/solutions/device2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/solutions/pattern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/solutions/shape.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/solutions/white-mockup.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/testimonial/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/testimonial/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/testimonial/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/testimonial/ball.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/testimonial/pattern1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/testimonial/pattern2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/testimonial/shape.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/aos.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/imagesloaded.pkgd.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/isotope.pkgd.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.appear.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.magnific-popup.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.nav.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/menu-indicator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/modernizr-2.8.3.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/odometer.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/owl.carousel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/rsmenu-main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/slick.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/swiper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/wow.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/assets/coloredbg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/assets/gridtile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/assets/gridtile_3x3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/assets/gridtile_3x3_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/assets/gridtile_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/assets/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/css/closedhand.cur" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/css/layers.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/css/navigation.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/css/openhand.cur" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/css/settings.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/fonts/revicons/revicons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/fonts/revicons/revicons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/fonts/revicons/revicons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/fonts/revicons/revicons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/js/extensions/revolution.extension.actions.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/js/extensions/revolution.extension.carousel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/js/extensions/revolution.extension.kenburn.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/js/extensions/revolution.extension.layeranimation.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/js/extensions/revolution.extension.migration.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/js/extensions/revolution.extension.navigation.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/js/extensions/revolution.extension.parallax.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/js/extensions/revolution.extension.slideanims.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/js/extensions/revolution.extension.video.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/js/jquery.themepunch.revolution.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/revolution/js/jquery.themepunch.tools.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/privacy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trems.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltr/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ltr/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltr/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/ltr/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl/assets/css/rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/rtl/assets/css/rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl/assets/images/background/bg2.png" beforeDir="false" afterPath="$PROJECT_DIR$/rtl/assets/images/background/bg2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl/assets/images/background/bg4.png" beforeDir="false" afterPath="$PROJECT_DIR$/rtl/assets/images/background/bg4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl/assets/images/background/bg5.png" beforeDir="false" afterPath="$PROJECT_DIR$/rtl/assets/images/background/bg5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/rtl/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/rtl/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl/privacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/rtl/privacy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/rtl/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl/trems.html" beforeDir="false" afterPath="$PROJECT_DIR$/rtl/trems.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +53,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589795835351</updated>
-      <workItem from="1589795838480" duration="6444000" />
+      <workItem from="1589795838480" duration="10732000" />
+      <workItem from="1589914461253" duration="8116000" />
     </task>
     <servers />
   </component>
@@ -199,5 +70,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="31" y="172" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589796755631" />
+    <state x="758" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589915891963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="758" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589915891963" />
   </component>
 </project>

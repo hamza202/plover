@@ -1,3 +1,68 @@
+
+/*.full-width-header .rs-header.transparent-header .menu-area .main-menu .rs-menu .head-btn{*/
+/*    left: 0;*/
+/*    right: auto;*/
+/*}*/
+@font-face {
+    font-family: 'cocon';
+    src: url("../fonts/CoconNextArabicLight.eot");
+    src: url("../fonts/CoconNextArabicLight.eot") format("embedded-opentype"), url("../fonts/CoconNextArabicLight.woff2") format("woff2"), url("../fonts/CoconNextArabicLight.woff") format("woff"), url("../fonts/CoconNextArabicLight.ttf") format("truetype"), url("../fonts/CoconNextArabicLight.svg#CoconNextArabicLight") format("svg"); }
 body{
     direction: rtl;
+    font-family: cocon ,sans-serif !important;
+}
+p,h1,h2,h3,h4,h5,h6,
+.rs-header .menu-area .main-menu .rs-menu ul.nav-menu li a{
+    font-family: cocon ,sans-serif !important;
+}
+.rs-header,.rs-banner{
+    direction: ltr !important;
+}
+#onepage-menu{
+    text-align: left;
+}
+@media  only screen and (max-width: 991px){
+    .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li a{
+        text-align: center;
+    }
+}
+@media  only screen and (max-width: 767px){
+    .rs-banner .sl-shape.sh9{
+        display: none !important;
+    }
+}
+.rs-banner .banner-title:after{
+    right: 0;
+    left: auto;
+}
+.rs-features .features-wrap .content-part .title{
+    font-weight: 500;
+}
+.rs-appscreenshot .swiper-container{
+    margin: 0 auto 0 45px;
+}
+.bg2,.bg5{
+    background-position: right;
+}
+.rs-solutions .sec-title .title{
+
+}
+.bg4{
+    background-position: center;
+}
+@media  only screen and (max-width: 767px){
+    .bg4{
+        background-position: right;
+    }
+}
+ul.my-list li{
+    padding-right: 15px;
+    padding-left: 0;
+}
+ul.my-list li:before{
+    right: 0;
+    left: auto;
+}
+.slick-slide{
+    float: right;
 }

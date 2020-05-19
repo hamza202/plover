@@ -15,7 +15,6 @@
 
     // Revolution Slider Js Start
     jQuery('#rev_slider_1').show().revolution({
-        sliderLayout: 'fullscreen',
         delay: 4000,
         sliderLayout: 'fullwidth',
         fullScreenAlignForce: 'off',
@@ -498,6 +497,7 @@
             arrows: true,
             fade: false,
             asNavFor: '.slider-nav',
+            rtl:true
         });
     }
     var slidernav = $('.slider-nav');
@@ -513,6 +513,7 @@
             centerPadding: '0',
             focusOnSelect: true,
             directionNav: true,
+            rtl:true,
             responsive: [
                 {
                     breakpoint: 768,

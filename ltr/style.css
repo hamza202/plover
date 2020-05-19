@@ -373,6 +373,13 @@ ul {
   background: url(assets/images/background/bg4.png);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
+
+}
+@media  only screen and (max-width: 767px){
+  .bg4{
+    background-position: left;
+  }
 }
 .bg5 {
   background: url(assets/images/background/bg5.png);
@@ -683,7 +690,7 @@ ul {
 }
 .rs-solutions .content-part .top-shape {
   position: absolute;
-  left: -50px;
+  right: -50px;
   top: 0;
 }
 .rs-solutions .content-part ul.counter li {
