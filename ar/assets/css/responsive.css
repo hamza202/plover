@@ -89,12 +89,16 @@
 		margin-right: 30px;
 	}
 }
+
 @media only screen and (max-width: 1199px){
 	.pl-104 {
 		padding-left: 0;
 	}
 	.bg2 {
 		background-position: center;
+	}
+	.rs-banner .banner-device{
+		width: 260px !important;
 	}
 	.sec-title .title {
 		font-size: 32px;
@@ -463,5 +467,10 @@
 		height: 30px;
 		line-height: 27px;
 		font-size: 20px;
+	}
+}
+@media (min-width: 992px) and (max-width: 1199px){
+	.rs-header .menu-area .main-menu .rs-menu ul.nav-menu li{
+		margin-right: 11px;
 	}
 }

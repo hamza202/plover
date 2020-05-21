@@ -1657,3 +1657,6 @@ ul.my-list li:before{
   top: 10px;
   background-color: #FEA13A ;
 }
+.slider-img{
+  border-radius: 15px;
+}
